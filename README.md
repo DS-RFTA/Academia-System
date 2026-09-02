@@ -19,3 +19,5 @@ Casos de Uso
 ✅ Frontend
 ✅ Autenticação
 ✅ Deploy
+
+<img width="1456" height="797" alt="{FB6AB6E8-4110-4EA7-83B0-8552AFA9FDCA}" src="https://github.com/user-attachments/assets/4129921a-551d-4920-8ca5-15dcfe2e1d80" />
