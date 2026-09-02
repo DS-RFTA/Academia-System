@@ -16,7 +16,7 @@
 
 • Como criar um documento de requisitos profissional
 
-
+---
 
 # Casos de Uso
 
@@ -38,6 +38,7 @@
 
 <img width="1456" height="797" alt="{FB6AB6E8-4110-4EA7-83B0-8552AFA9FDCA}" src="https://github.com/user-attachments/assets/4129921a-551d-4920-8ca5-15dcfe2e1d80" />
 
+---
 ### - Quem vai utilizar o sistema?
 ### - Qual é o maior problema hoje?
 ### - Como funciona uma matrícula?
@@ -45,10 +46,10 @@
 ### - O aluno pode trancar uma matrícula?
 ### - Quem pode excluir informações?
 
-
+---
 
 ### Como transformar a necessidade do Cliente em funcionalidades claras o time de desenvolvimento?
-
+---
 Cliente
   
    ↓
