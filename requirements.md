@@ -38,3 +38,13 @@ Substituindo o controle manual atualmente realizado em papel e planilha.
 - RF08 - Emitir relatórios.
 
 ---
+
+## Requisitos não Funcionais
+
+- RNF01 - O sistema deve possuir autenticação.
+- RNF02 - O sistema deve funcionar em dispositivos móveis
+- RFN03 - O tempo de resposta deve ser inferior a 2 segundos.
+- RFN04 - Os dados devem possuir backup periódico. 
+- RNF05 - Apenas usuários autorizados poderão acessar determinadas funcionalidades.  
+
+---
