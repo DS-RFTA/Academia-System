@@ -15,3 +15,13 @@ Substituindo o controle manual atualmente realizado em papel e planilha.
 - Aluno
 
 ---
+
+## Problemas Identificados
+
+- Demora para localizar informações dos alunos.
+- Controle manual de pagamentos.
+- Dificuldade para acompanhar matículas.
+- Informações espalhadas em papel.
+- Risco de perda de dados.
+
+---
