@@ -4,3 +4,14 @@
 
 Desenvolver um sistema para gerenciar alunos, planos, professores e pagamentos. 
 Substituindo o controle manual atualmente realizado em papel e planilha.
+
+---
+
+# Usuários do sistema
+
+- Administrador
+- Recepcionista
+- Professor
+- Aluno
+
+---
