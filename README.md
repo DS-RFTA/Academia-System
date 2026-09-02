@@ -46,25 +46,33 @@
 
 Cliente
   
-  ↓
+   ↓
+  
 Levantamento de Requisitos
   
-  ↓
+   ↓
+  
 Casos de Uso
   
-  ↓
+   ↓
+  
 Modelagem do Domínio
   
-  ↓
+   ↓
+  
 Banco de Dados
+
   
-  ↓
+   ↓
+  
 API Rest
+ 
+   ↓
   
-  ↓
 Frontend
+    
+   ↓
   
-  ↓
 Deploy
 
 
