@@ -48,3 +48,11 @@ Substituindo o controle manual atualmente realizado em papel e planilha.
 - RNF05 - Apenas usuários autorizados poderão acessar determinadas funcionalidades.  
 
 ---
+
+## Regras de Negócio 
+
+- RN01 - Cada aluno deve possuir um CPF único.
+- RN02 - Um aluno só pode ter uma matrícula ativa.
+- RN03 - O pagamento vencido bloqueia novos agendamentos.
+- RN04 - Apenas administradores podem excluir alunos.
+- RN05 - Professores podem visualizar alunos, mas não exluí-los.
