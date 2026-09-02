@@ -5,6 +5,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
 
+
 • O que é Levantamento de Requisitos
 
 • Requisitos Funcionais x Não Funcionais
@@ -14,6 +15,8 @@
 • Como transformar uma ideia em um projeto de software
 
 • Como criar um documento de requisitos profissional
+
+
 
 # Casos de Uso
 
@@ -41,6 +44,8 @@
 ### - Como controla o pagamento?
 ### - O aluno pode trancar uma matrícula?
 ### - Quem pode excluir informações?
+
+
 
 ### Como transformar a necessidade do Cliente em funcionalidades claras o time de desenvolvimento?
 
