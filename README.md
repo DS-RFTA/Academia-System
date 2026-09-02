@@ -1,7 +1,7 @@
 # Software_academia
 
 Construindo um Software do Zero
-
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
 
 • O que é Levantamento de Requisitos
 • Requisitos Funcionais x Não Funcionais
